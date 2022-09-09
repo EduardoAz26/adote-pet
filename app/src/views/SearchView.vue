@@ -2,7 +2,7 @@
 
 <v-text-field
             filled
-            label="Pesquisar"
+            label="Buscar"
             prepend-inner-icon="mdi-magnify"
           ></v-text-field>
 
