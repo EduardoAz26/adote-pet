@@ -6,7 +6,6 @@
             prepend-inner-icon="mdi-magnify"
           ></v-text-field>
 
-
 </template>
 
 <script>
